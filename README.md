@@ -719,16 +719,7 @@ PLURAL IS TILDE’S</h2></div>
   font-weight: 900;
   unicode-range: U+0000-DFFF, U+F900-FFFD;
 }
-/*
- * This CSS file has been generated and is served by Cargo Collective Inc
- * and is authorized to be used on Cargo Collective Inc only.
- *
- * This CSS resource incorporates links to font software which is
- * the valuable copyrighted property of Dinamo Typefaces. You may not
- * attempt to copy, install, redistribute, convert, modify or reverse
- * engineer this font software. Please contact Dinamo with any
- * questions: https://abcdinamo.com/
- */
+
 @font-face {
   font-display: block;
   font-family: "Monument Grotesk Mono";
@@ -741,3 +732,4 @@ PLURAL IS TILDE’S</h2></div>
 </style>
 	</body>
 </html>
+
