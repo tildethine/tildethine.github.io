@@ -1,0 +1,28 @@
+VERSION="2.4.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+  "GD4PRUR5HRCIBB3JVGDA5XWISOTD2YGY2ZYOWDONOK4SDYX5MIT4URUN"
+]
+
+[DOCUMENTATION]
+ORG_NAME="TildeThine"
+ORG_URL="https://tildethine.xyz/"
+ORG_LOGO="https://tildethine.xyz/.well-known/logo-128x128.png"
+ORG_DESCRIPTION="What even does TildeThine mean?"
+ORG_GITHUB="tildethine"
+ORG_TWITTER="tildethine"
+ORG_OFFICIAL_EMAIL="tildethine@protonmail.ch"
+
+[[PRINCIPALS]]
+name="Tilde Thine"
+email="tildethine@protonmail.ch"
+github="tildethine"
+twitter="tildethine"
+
+[[CURRENCIES]]
+code="TILDETHINE"
+issuer="GD4PRUR5HRCIBB3JVGDA5XWISOTD2YGY2ZYOWDONOK4SDYX5MIT4URUN"
+name="TildeThine"
+desc="What even does TildeThine mean?"
+image="https://tildethine.xyz/.well-known/logo-128x128.png"
